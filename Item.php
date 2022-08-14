@@ -134,7 +134,7 @@
 
       <button type="submit" name="create" class="btn btn-primary" onclick = "fun();">Submit</button>
       <input type="button" name="clear" value="Clear" class="btn btn-primary" onclick="window.location.href='Item.php'">
-      <a href="read.php" class="btn btn-primary"> view</a>
+      <a href="readitems.php" class="btn btn-primary"> view</a>
 
 
 
